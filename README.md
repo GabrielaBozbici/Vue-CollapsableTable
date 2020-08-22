@@ -1,4 +1,4 @@
-# graphaware-project
+# project
 
 ## Project setup
 ```
